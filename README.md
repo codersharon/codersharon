@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @codersharon
-- 👀 I’m interested in Developing Web Apps
-- 🌱 I’m currently learning Python also
-- 💞️ I’m looking to collaborate on Web App Projects 
-- 📫 How to reach me: DM me on my Instagram.
-- 😄 Pronouns: He
-- ⚡ Fun fact: I've tried many other things whenever i was free like,
-  Creating GUI apps on windows and ubuntu using java and pyhton,
-  trying to make android apps using python,
-  trying to integrate Open AI Chat-GPT with javascript and python 😁.
+👋 Hi there! I'm Sharon, a passionate **Full Stack Web Developer*
+
+🔭 Currently exploring the depths of **MERN Stack Development** and creating dynamic, responsive web applications.
+📦 Available for freelance projects on Fiverr.
+
+Aiming to blend creativity and technology to make a positive impact in the digital world. Let's connect and collaborate!
